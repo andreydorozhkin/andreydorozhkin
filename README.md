@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreydorozhkin
 - 🎓 Bachelor of Information Systems and Technology
-- 👀 I’m interested in DevOps, Big data, Highload system
+- 👀 I’m interested in DevOps, Big data, Distributed system
 - 🌱 I’m currently learning Python, CI/CD, Docker, EFK
 - 📫 Reach me in telegram @an_dorozhkin
 
