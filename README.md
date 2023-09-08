@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @andreydorozhkin
 - 🎓 Bachelor of Information Systems and Technology
-- 👀 I’m interested in DevOps/SRE, Big data, Distributed system, System Design
-- 🌱 I’m currently learning Python, Ansible, Kubernetes
+- 👀 I’m interested in DevOps/SRE, Operating Systems, Distributed system, System Design
+- 🌱 I’m currently learning Go Lang, Ansible, Kubernetes
+- 👨‍💻 I'm currently a lot of work with Clickhouse, Ansible and performance tuning Linux for bare metal servers 
 - 📫 Reach me in telegram @an_dorozhkin
 
 
