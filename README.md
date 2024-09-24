@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreydorozhkin
 - 🎓 Bachelor of Information Systems and Technology
-- 👀 I’m interested in DevOps/SRE, Operating Systems, Distributed system, System Design
-- 👨‍💻 I'm currently a lot of work with Clickhouse, Aerospike, Ansible and performance tuning Linux for bare metal servers 
+- 👀 I’m interested in DevOps, Databases, Distributed system and Data Engineering
+- 👨‍💻 I'm currently a lot of work with Clickhouse, Aerospike, MongoDB and tunning OS for databases
 - 📫 Reach me in telegram @an_dorozhkin
 
 
